@@ -1,6 +1,6 @@
 {
-  "short_name": "ENS App",
-  "name": "ENS App",
+  "short_name": "ENS App UNOFFICIAL",
+  "name": "ENS App UNOFFICIAL",
   "description": "Decentralised naming for wallets, websites, & more.",
   "iconPath": "android-chrome-144x144.png",
   "icons": [
@@ -18,5 +18,6 @@
   "start_url": "./index.html",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
-  "display": "standalone"
+  "display": "standalone",
+  "skylink": "AQCGKp2BulowHzXAnkwJBeest8l2VDoaXR2G5mjyu5qqqA"
 }
